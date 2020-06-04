@@ -1,3 +1,56 @@
+# PROJECT - Gatsby's default starter 0.414Gb
+
+DEMOs:
+
+- [https://app.netlify.com/](https://app.netlify.com/start) 
+
+deploy from GitHub: [DEMO](https://elated-golick-4e3789.netlify.app)
+``` 
+build command:
+gatsby build
+
+publish directory:
+public/
+
+```
+
+- [https://vercel.com/](https://vercel.com/import/project)
+
+deploy from GitHub: [DEMO](https://gatsby-default.now.sh/)
+``` 
+build command:
+npm run build
+
+publish directory:
+public/
+
+development command:
+gatsby develop --port $PORT
+```
+
+- [https://dashboard.heroku.com/new-app](https://gatsby-default.herokuapp.com/) -  Application error
+                                                                                  
+
+-------------------------------------------------------------
+
+###### content
+
+- [okta](https://developer.okta.com/blog/2020/02/18/gatsby-react-netlify)
+
+-------------------------------------------------------------
+
+#### DEPLOYMENT
+
+``` 
+npm run develop
+```
+
+[http://localhost:8000/]( http://localhost:8000/)
+
+[http://localhost:8000/___graphql](http://localhost:8000/___graphql)
+
+----------------------------------------------------------
+
 ### NPM
 
 ``` 
@@ -51,16 +104,6 @@ nvm alias default node                Always default to the latest available nod
 
 in a terminal to see if ```n``` is installed on your system. If it’s installed, 
 you can run ```n 10``` to install and use Node.js version 10.
-
-### PROJECT - Gatsby's default starter 0.414Gb
-
-``` 
-npm run develop
-```
-
-[http://localhost:8000/]( http://localhost:8000/)
-
-[http://localhost:8000/___graphql](http://localhost:8000/___graphql)
 
 
 --------------------------------------------------------
